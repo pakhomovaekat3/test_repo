@@ -7,7 +7,7 @@ import string
 import git
 import os
 
-github_token = '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'
+
 github_username = 'gagasheka'
 repo_name = 'test_repo'
 
